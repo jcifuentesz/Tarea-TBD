@@ -1,2 +1,3 @@
 /Sakila-Backend/build/
 /Sakila-Frontend/node_modules/
+/Sakila-Backend/src/main/resources/application.properties
